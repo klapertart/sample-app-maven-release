@@ -20,4 +20,11 @@ public class Aggregate {
         log.info("result: {}", (val1*val2));
         return (val1*val2);
     }
+
+    public int subtraction(int val1, int val2){
+        log.info("result: {}", (val1-val2));
+        return (val1-val2);
+    }
+
+
 }
