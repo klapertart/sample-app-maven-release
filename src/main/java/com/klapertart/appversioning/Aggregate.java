@@ -16,7 +16,8 @@ public class Aggregate {
         return result;
     }
 
-    public void multiple(int val1, int val2){
+    public int multiple(int val1, int val2){
         log.info("result: {}", (val1*val2));
+        return (val1*val2);
     }
 }
