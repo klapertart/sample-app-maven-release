@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.0.4](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.4) (2024-05-20)
+
+
+
+### Features
+
+-  subtraction method ([20a3be13d3f3622](https://github.com/klapertart/sample-app-maven-release/commit//20a3be13d3f3622))
+
+
+
+### Chores
+
+-  update pom ([80d808985586258](https://github.com/klapertart/sample-app-maven-release/commit//80d808985586258))
+-  update pom ([130b1951389af68](https://github.com/klapertart/sample-app-maven-release/commit//130b1951389af68))
+-  update pom ([77a3159d2c4569f](https://github.com/klapertart/sample-app-maven-release/commit//77a3159d2c4569f))
+-  update pom ([858022b8a4b1958](https://github.com/klapertart/sample-app-maven-release/commit//858022b8a4b1958))
+
+### Docs
+
+-  update changelog ([6fa201770a76810](https://github.com/klapertart/sample-app-maven-release/commit//6fa201770a76810))
+-  update changelog ([17f88d5a1dec493](https://github.com/klapertart/sample-app-maven-release/commit//17f88d5a1dec493))
+
+
 ## [0.0.3](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.3) (2024-05-19)
 
 
