@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.0.5](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.5) (2024-05-21)
+
+
+
+
+
+
+### Chores
+
+-  update release file ([82235370a5326ff](https://github.com/klapertart/sample-app-maven-release/commit//82235370a5326ff))
+
+### Docs
+
+-  update changelog ([9bf5b6ea0310e80](https://github.com/klapertart/sample-app-maven-release/commit//9bf5b6ea0310e80))
+
+
 ## [0.0.4](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.4) (2024-05-20)
 
 
