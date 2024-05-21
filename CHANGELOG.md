@@ -1,5 +1,31 @@
 # Changelog
 
+## [0.0.8](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.8) (2024-05-21)
+
+
+
+
+
+
+### Chores
+
+-  update pom ([400289e59c45226](https://github.com/klapertart/sample-app-maven-release/commit//400289e59c45226))
+
+
+
+## [0.0.7](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.7) (2024-05-21)
+
+
+
+
+
+
+
+### Docs
+
+-  update changelog ([3cafa8eb5c68ea3](https://github.com/klapertart/sample-app-maven-release/commit//3cafa8eb5c68ea3))
+
+
 ## [0.0.6](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.6) (2024-05-21)
 
 
