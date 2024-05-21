@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.0.6](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.6) (2024-05-21)
+
+
+
+
+
+
+
+
+
 ## [0.0.5](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.5) (2024-05-21)
 
 
