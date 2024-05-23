@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.0.9-DEV](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.9-DEV) (2024-05-23)
+
+
+
+
+
+
+### Chores
+
+-  bump to 0.0.9-SNAPSHOT ([15ac8d2619f11f5](https://github.com/klapertart/sample-app-maven-release/commit//15ac8d2619f11f5))
+
+### Docs
+
+-  update chengelog ([aad773a072e8f97](https://github.com/klapertart/sample-app-maven-release/commit//aad773a072e8f97))
+
+
 ## [0.0.8](https://github.com/klapertart/sample-app-maven-release/releases/tag/0.0.8) (2024-05-21)
 
 
