@@ -15,7 +15,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<version.suffix>-DEV</version.suffix>
+		<version.suffix>DEV</version.suffix>
 	</properties>
 
 
